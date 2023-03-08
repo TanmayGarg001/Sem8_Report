@@ -1,0 +1,220 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+#mainBody {
+  background-color: rgb(57, 52, 52);
+  color: white;
+}
+#temp {
+  padding: 1rem;
+}
+#footer {
+  color: white;
+  padding: 1% 20% 8% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://img.freepik.com/free-photo/sunlight-shining-single-mountain-top-sunset-with-dark-cloudy-sky_181624-377.jpg?w=1480&t=st=1676455247~exp=1676455847~hmac=5a356a393f344e6061b408b7a16dace36d3dea533987ac14ef67331e3aa196cf);
+}
+#content {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+#container {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+#left {
+  width: 50%;
+  align-items: start;
+  padding-left: 20px;
+}
+#right {
+  width: 50%;
+  align-items: start;
+}
+.rd_img {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
+  #zero {
+    background-color: #3f3b6c;
+    color: #ffffff;
+    padding: 50px;
+    display: flex;
+  }
+  #one {
+    background-color: #144272;
+    color: #ffffff;
+    padding: 50px;
+    display: flex;
+  }
+  #two {
+    background-color: #0a2647;
+    padding: 50px;
+    color: #ffffff;
+    display: flex;
+  }
+#splitter {
+  background-color: #393053;
+  padding: 50px;
+  color: #ffffff;
+}
+h3,
+h4,
+h5,
+h6 {
+  color: #ffffff;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  margin: 0 0 1em 0;
+  text-transform: uppercase;
+}
+h2 {
+  border-bottom: 1px solid gray;
+  padding-bottom: 2%;
+}
+#header {
+  padding: 16% 18% 10.5% 18%;
+  background-color: #0a2647;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://images.wallpaperscraft.com/image/single/nebula_stars_universe_189521_3840x2160.jpg);
+}
+.r1 {
+  padding-left: 7%;
+  padding-top: 2%;
+}
+.l1 {
+  padding-left: 20%;
+}
+.r2 {
+  padding-left: 7%;
+}
+.l2 {
+  padding-left: 20%;
+}
+.picTableRow {
+  padding: 3%;
+}
+#myTable {
+  width: 100%;
+}
+#midContent {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#entry {
+  padding-top: 2%;
+  font-size: 26px;
+  color: white;
+}
+#t {
+  color: rgb(131, 131, 255);
+}
+.nav-item {
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+#icon {
+  margin-left: 15px;
+  margin-bottom: 25px;
+  scale: 1.8;
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 50%;
+}
+#tempo {
+  padding-top: 25px;
+  font-size: 3rem;
+  letter-spacing: 0.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.check {
+  margin-top: 5%;
+}
+#name {
+  width: 80%;
+  height: 3rem;
+  background-color: transparent;
+  margin-bottom: 5%;
+}
+#name:focus {
+  outline: none !important;
+  border: 1px solid blue;
+  box-shadow: 0 0 2px #719ece;
+}
+#email {
+  width: 80%;
+  height: 3rem;
+  background-color: transparent;
+  border-color: gray;
+  margin-bottom: 5%;
+}
+#email:focus {
+  outline: none !important;
+  border: 1px solid blue;
+  box-shadow: 0 0 2px #719ece;
+}
+#mssg {
+  width: 80%;
+  height: 8rem;
+  border-color: gray;
+  background-color: transparent;
+  margin-bottom: 5%;
+}
+#mssg:focus {
+  outline: none !important;
+  border: 1px solid blue;
+  box-shadow: 0 0 2px #719ece;
+}
+#send_mssg {
+  padding: 2%;
+  border-radius: 7px;
+  border-color: gray;
+  color: white;
+  background-color: transparent;
+}
+.headings {
+  font-size: 25px;
+  font-weight: 700;
+  padding-bottom: 3%;
+}
+.headingPara {
+  font-size: 18px;
+  padding-top: 2%;
+}
+.imgGrid {
+  padding-bottom: 5%;
+}
+.gridText {
+  padding-left: 5%;
+}
+.gridPara {
+  padding-bottom: 4%;
+  padding-top: 3%;
+  font-size: 20px;
+}
+.gridHeads {
+  padding-bottom: 5%;
+  font-size: 24px;
+  font-weight: 600;
+}
+.footy {
+  margin-left: 70px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 1px;
+  padding-left: 17%;
+  height: 50px;
+}
+.footyElement {
+  margin-left: 10px;
+  margin-right: 10px;
+}

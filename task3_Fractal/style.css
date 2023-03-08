@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#fractalSec {
+  height: 100%;
+  background-image: linear-gradient(
+    40deg,
+    #54a3e8 0.22%,
+    #4a98e6 0.22%,
+    #4a98e6 50%,
+    #54a3e8 50%,
+    #54a3e8 50.22%,
+    #4a98e6 50.22%,
+    #4a98e6 100%
+  );
+  background-size: 703.19px 590.04px;
+  padding: 22em 0em 18em 26em;
+  display: flex;
+  color: white;
+}
+#fractalSec img {
+  height: 22em;
+  width: 18em;
+}
+#fractalSec h1 {
+  font-size: 4em;
+  padding-bottom: 0.5em;
+  text-align: end;
+}
+#fractalSec p {
+  line-height: 1.25em;
+  font-size: 1.85em;
+  padding-bottom: 1em;
+  color: #d1e5f9;
+  text-align: end;
+}
+
+#fractalSec a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+#fractalLeftDiv {
+  padding-right: 6em;
+}
+#fractalBtnSec {
+  text-align: end;
+}
+#fractalSec button {
+  border: 0;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  width: 38%;
+  margin: 0.5em;
+  font-weight: 600;
+  font-size: 1.25em;
+  padding: 0.75em 0em 0.75em 0em;
+  border-radius: 0.25em;
+}
+#fractalSec i {
+  padding-right: 0.25em;
+}
+#firstMC {
+  text-align: center;
+  background-color: #fbfbfb;
+  padding: 5em 35em 5em 35em;
+  border-bottom: 2px solid #eeeeee;
+}
+#firstMC h2 {
+  font-size: 2.25em;
+  font-weight: 500;
+  text-align: center;
+  line-height: 1.5em;
+  color: #828282;
+}
+#firstMC p {
+  border: 1px solid #e6e6e6;
+  margin-left: 22em;
+  margin-right: 20em;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+#firstMC i {
+  color: #e0e0e0;
+  scale: 1.75;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: center;
+}
+.cardHz {
+  margin-left: 25em;
+  margin-right: 25em;
+  padding-top: 5em;
+  padding-bottom: 3em;
+  display: flex;
+  border-bottom: 2px solid #eeeeee;
+}
+.cardHz img {
+  border: 2px solid #e8e8e8;
+  padding: 0.25em;
+  border-radius: 50%;
+  width: 18em;
+  height: 18em;
+}
+.cardHz h2 {
+  font-size: 2em;
+  font-weight: 500;
+  color: #828282;
+  padding-top: 2em;
+  padding-left: 1.25em;
+  line-height: 1.5em;
+}
+.cardHz p {
+  font-size: 1.3em;
+  font-weight: 500;
+  color: #999999;
+  padding: 2em;
+  padding-top: 1em;
+  line-height: 1.5em;
+  text-align: start;
+}
+#iconDiv {
+  width: 100%;
+  padding-top: 5em;
+  text-align: center;
+  width: 100%;
+  color: #e0e0e0;padding-bottom: 5em;
+  border-bottom: 2px solid #eeeeee;
+}
+#iconDiv i {
+  scale: 1.5;
+  padding-right: 1em;
+}
+#iconDiv div {
+  display: flex;
+}
+#iconDiv p {
+  padding-right: 2em;
+  font-size: 1.25em;
+  color: #999999;
+  padding-top: 0.5em;
+}
